@@ -23,7 +23,7 @@
 - 💾 **Local Storage** - Your tasks persist across sessions
 - 📱 **Responsive Design** - Works seamlessly on desktop and mobile
 
----
+
 
 ## 🚀 Quick Start
 
@@ -39,6 +39,7 @@ git clone https://github.com/ronaksharma2908/TO-DO-APP.git
 
 # Navigate to project directory
 cd TO-DO-APP
+WORK IN PROGRESS
 
 # Open in your browser
 open index.html
