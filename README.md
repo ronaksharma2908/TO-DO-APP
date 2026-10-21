@@ -532,3 +532,4 @@ If you found this project useful or interesting:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
+...
